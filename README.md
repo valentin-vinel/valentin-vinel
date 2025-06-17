@@ -1,4 +1,4 @@
-# About me 👋
+# Hello, world 👋
 
 - 👨🏻‍💻 I'm currently training to be a web and mobile web developer.
 - ⌨️ I’m currently learning JavaScript, NodeJS and React.
