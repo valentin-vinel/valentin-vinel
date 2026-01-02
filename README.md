@@ -12,6 +12,6 @@ I enjoy working on well-structured projects and clean codebases.
 ---
 
 ### 📫 Contact
-[email](mailto:contact@valentin-vinel.fr) - [linkedin](https://www.linkedin.com/in/valentin-vinel-a992b21b4/)
+[contact@valentin-vinel.fr](mailto:contact@valentin-vinel.fr) - [linkedin](https://www.linkedin.com/in/valentin-vinel-a992b21b4/)
 
 Always open to new projects and collaborations 🤝
