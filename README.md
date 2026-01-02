@@ -9,7 +9,9 @@ I enjoy working on well-structured projects and clean codebases.
 ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
+---
+
 ### 📫 Contact
-[email](mailto:contact@valentin-vinel.fr) - [LinkedIn](https://www.linkedin.com/in/valentin-vinel-a992b21b4/)
+[email](mailto:contact@valentin-vinel.fr) - [linkedin](https://www.linkedin.com/in/valentin-vinel-a992b21b4/)
 
 Always open to new projects and collaborations 🤝
